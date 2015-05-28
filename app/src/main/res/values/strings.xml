@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">World Cup 2014</string>
+    <string name="facebook_app_name">HelloWorld</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_fb_logout">Cerrar Sesion</string>
+
+    <string name="drawer_abierto">Drawer Abierto</string>
+    <string name="drawer_cerrado">Drawer Cerrado</string>
+
+    <!--<string name="facebook_app_id">1446014362378400</string>-->
+    <string name="facebook_app_id">355198514515820</string>
+
+
+    <string name="fb_login_button">Conectate con Facebook</string>
+    <string name="fb_logout_button">Cerrar Sesion</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="welcome">Bienvenido</string>
+    <string name="title_activity_match">MatchActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="success">Listo!</string>
+    <string name="successfully_posted_post">Su post se realizo con exito: %1$s</string>
+    <string name="error">Error</string>
+    <string name="status_update">Updating status for %1$s at %2$s</string>
+    <string name="photo_post">Photo Post</string>
+</resources>

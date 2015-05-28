@@ -32,6 +32,8 @@ public class MatchesCustomAdapter extends RecyclerView.Adapter<MatchesCustomAdap
         View v = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.item_matches_list, viewGroup, false);
         MatchViewHolder mvh = new MatchViewHolder(v);
         return mvh;
+
+
     }
 
     @Override
